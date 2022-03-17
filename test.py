@@ -22,11 +22,11 @@ hide_menu_style = """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 col = st.columns(4)
-#with col[0]:
-#    st.image("Logo_UT3.JPG")
+with col[0]:
+    st.image("Logo_UT3.jpg")
     
-#with col[3]:
- #   st.image("ensiacet.JPG")
+with col[3]:
+    st.image("ensiacet.jpg")
 
 st.markdown('---')
 
