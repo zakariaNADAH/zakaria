@@ -25,8 +25,8 @@ st.markdown(hide_menu_style, unsafe_allow_html=True)
 #with col[0]:
 #    st.image("Logo_UT3.JPG")
     
-with col[3]:
-    st.image("ensiacet.JPG")
+#with col[3]:
+#    st.image("ensiacet.JPG")
 
 st.markdown('---')
 
@@ -530,4 +530,4 @@ with Button:
     col31.write("+336.28.80.13.40")
     col31.write("zakariaenadah@gmail.com")
     
-    #col33.image("profil_.jpg")
+    col33.image("profil_.jpg")
